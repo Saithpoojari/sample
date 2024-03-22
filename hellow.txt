@@ -1,2 +1,3 @@
 hello vcs
 hello world
+added a new feature
